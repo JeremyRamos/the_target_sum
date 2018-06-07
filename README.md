@@ -1,1 +1,1 @@
-Just a fun game written in React for the purpose upskilling
+Just a fun game written in React for the purpose of upskilling
